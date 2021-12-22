@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<Suite name="Test Suite" verose="2">
+<test name="Run single tests">
+<classes>
+	<class name="basicInTestNG.SampleTest"></class>	
+</classes>
+</test>
+</Suite>
